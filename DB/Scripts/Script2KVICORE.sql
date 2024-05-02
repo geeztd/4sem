@@ -1,0 +1,10 @@
+CREATE TABLE KVI_T(
+    id NUMBER,
+    mes NVARCHAR2(50)
+);
+
+INSERT INTO KVI_T VALUES (1,'message');
+INSERT INTO KVI_T VALUES (2,'message2');
+SELECT * from KVI_T;
+
+
