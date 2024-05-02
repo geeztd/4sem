@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\stady\labs 2\MatProg\lab1\lab1\Source.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\stady\labs 2\MatProg\lab1\lab1\Source.cpp(13,61): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\stady\labs 2\MatProg\lab1\lab1\Source.cpp(16,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\stady\labs 2\MatProg\lab1\lab1\Source.cpp(16,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab1.vcxproj -> D:\stady\labs 2\MatProg\lab1\x64\Debug\lab1.exe
