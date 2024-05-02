@@ -1,0 +1,12 @@
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\bin\Debug\net7.0\lab3Library.deps.json
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\bin\Debug\net7.0\lab3Library.dll
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\bin\Debug\net7.0\lab3Library.pdb
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.csproj.AssemblyReference.cache
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.AssemblyInfoInputs.cache
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.AssemblyInfo.cs
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.csproj.CoreCompileInputs.cache
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.dll
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\refint\lab3Library.dll
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\lab3Library.pdb
+D:\stady\labs 2\Pattern\lab3\lab3Library\lab3Library\obj\Debug\net7.0\ref\lab3Library.dll

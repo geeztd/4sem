@@ -1,0 +1,15 @@
+D:\stady\labs 2\Pattern\lab1\lab2\bin\Debug\net7.0\lab2.exe
+D:\stady\labs 2\Pattern\lab1\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\stady\labs 2\Pattern\lab1\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\stady\labs 2\Pattern\lab1\lab2\bin\Debug\net7.0\lab2.dll
+D:\stady\labs 2\Pattern\lab1\lab2\bin\Debug\net7.0\lab2.pdb
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.dll
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.pdb
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\stady\labs 2\Pattern\lab1\lab2\obj\Debug\net7.0\ref\lab2.dll

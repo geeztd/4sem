@@ -1,0 +1,12 @@
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\bin\Debug\net7.0\Lec04LibN.deps.json
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\bin\Debug\net7.0\Lec04LibN.dll
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\bin\Debug\net7.0\Lec04LibN.pdb
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.csproj.AssemblyReference.cache
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.AssemblyInfoInputs.cache
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.AssemblyInfo.cs
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.csproj.CoreCompileInputs.cache
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.dll
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\refint\Lec04LibN.dll
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\Lec04LibN.pdb
+D:\stady\labs 2\Pattern\lab4\Lec04LibN\Lec04LibN\obj\Debug\net7.0\ref\Lec04LibN.dll
