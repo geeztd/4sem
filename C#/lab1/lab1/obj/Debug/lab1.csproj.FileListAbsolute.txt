@@ -1,0 +1,11 @@
+D:\stady\labs 2\C#\lab1\lab1\bin\Debug\lab1.exe.config
+D:\stady\labs 2\C#\lab1\lab1\bin\Debug\lab1.exe
+D:\stady\labs 2\C#\lab1\lab1\bin\Debug\lab1.pdb
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.exe
+D:\stady\labs 2\C#\lab1\lab1\obj\Debug\lab1.pdb
