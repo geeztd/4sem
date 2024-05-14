@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab9\\lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|solutionrelative:lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab9\\lab9\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|solutionrelative:lab9\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab9\\lab9\\class\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|solutionrelative:lab9\\class\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab9\\lab9\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|solutionrelative:lab9\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab9\\lab9\\windows\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B2D13C-8F63-41F7-8747-EE83DB2B4D86}|lab9\\lab9.csproj|solutionrelative:lab9\\windows\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.xaml.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\Windows\\AddUser.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\Windows\\AddUser.xaml.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\Windows\\AddUser.xaml.cs",
+              "RelativeToolTip": "lab9\\Windows\\AddUser.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:48:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\Class\\User.cs",
+              "RelativeDocumentMoniker": "lab9\\Class\\User.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\Class\\User.cs",
+              "RelativeToolTip": "lab9\\Class\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:47:27.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\Class\\Orders.cs",
+              "RelativeDocumentMoniker": "lab9\\Class\\Orders.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\Class\\Orders.cs",
+              "RelativeToolTip": "lab9\\Class\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:47:26.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab9\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:44:51.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\DB.cs",
+              "RelativeDocumentMoniker": "lab9\\DB.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab9\\lab9\\DB.cs",
+              "RelativeToolTip": "lab9\\DB.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:19:03.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\stady\\labs 2\\Pattern\\Lab6Lib\\lab6\\Lab6Lib.csproj": {}
+    "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Lab6Lib.csproj": {}
   },
   "projects": {
-    "D:\\stady\\labs 2\\Pattern\\Lab6Lib\\lab6\\Lab6Lib.csproj": {
+    "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Lab6Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\stady\\labs 2\\Pattern\\Lab6Lib\\lab6\\Lab6Lib.csproj",
+        "projectUniqueName": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Lab6Lib.csproj",
         "projectName": "Lab6Lib",
-        "projectPath": "D:\\stady\\labs 2\\Pattern\\Lab6Lib\\lab6\\Lab6Lib.csproj",
+        "projectPath": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Lab6Lib.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\stady\\labs 2\\Pattern\\Lab6Lib\\lab6\\obj\\",
+        "outputPath": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

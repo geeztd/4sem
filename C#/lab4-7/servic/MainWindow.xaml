@@ -1,0 +1,128 @@
+﻿<Window x:Class="servic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:servic"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1024" MinWidth="500"
+        Style="{DynamicResource WindowStyle}">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsMouseOver" Value="True" />
+                        <Condition Property="IsPressed" Value="True" />
+                    </MultiTrigger.Conditions>
+                    <MultiTrigger.Setters>
+                        <Setter Property="FontSize" Value="14" />
+                        <Setter Property="Foreground" Value="Red" />
+                    </MultiTrigger.Setters>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="local:CustomTextBlock">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="local:CustomTextBlock">
+                        <Border Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}">
+                            <TextBlock Text="{TemplateBinding Text}" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <EventTrigger RoutedEvent="Loaded">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                                 From="0" To="1" Duration="0:0:1" AutoReverse="True" RepeatBehavior="Forever"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <ToolBar Background="Lavender"  Grid.Column="0" >
+            <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center">
+                <Button Content="{DynamicResource Save}"  Style="{StaticResource CustomButtonStyle}" Width="75" Margin="0,0,5,0" Command="{Binding SaveInFileCommand}"/>
+                <Button Content="{DynamicResource Add}" Style="{DynamicResource ButtonStyle}" FontSize="10" Width="75" Margin="0,0,5,0" Command="{Binding AddProductCommand}"/>
+                <Button Content="{DynamicResource Redo}" Style="{DynamicResource ButtonStyle}" Margin="0,0,5,0" Command="{Binding BackCommand}"/>
+                <Button Content="{DynamicResource Undo}" Style="{DynamicResource ButtonStyle}" Margin="5,0,5,0"  Command="{Binding ForwordCommand}"/>
+                <local:CustomTextBlock Text = "Castom TextBlock" />
+                <Button Content="Lab7" Style="{DynamicResource ButtonStyle}" Margin="5,0,5,0" Click="Button_Click"/>
+            </StackPanel>
+        </ToolBar>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+
+            <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto">
+
+                <ItemsControl x:Name="ProductListView" Margin="10,10,0,0" ItemsSource="{Binding filtered}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border Width="200" Padding="10" Margin="15" Style="{DynamicResource BorderStyle}">
+                                <StackPanel >
+                                    <Image Source="{Binding bitmapImage}" Width="100" Height="100" />
+                                    <TextBlock Style="{DynamicResource TextBlockStyle}" Text="{Binding ShortName}" FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <TextBlock Style="{DynamicResource TextBlockStyle}" Text="{Binding Creater}" FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <TextBlock Style="{DynamicResource TextBlockStyle}" Text="{Binding category}" FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <TextBlock Style="{DynamicResource TextBlockStyle}" Text="{Binding Cost, StringFormat={}{0:C}}" FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <Button Content="{DynamicResource Buy}" Width="100" HorizontalAlignment="Left" Margin="0,10,0,0"/>
+                                    <Button Style="{DynamicResource ButtonStyle}" Content="{DynamicResource Detail}" Width="100" HorizontalAlignment="Left" Margin="0 10 0 0" Command="{Binding DataContext.ShowDetailsCommand, RelativeSource={RelativeSource AncestorType={x:Type Window}} }" CommandParameter="{Binding}"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+
+                </ItemsControl>
+            </ScrollViewer>
+
+            <StackPanel Margin="10, 0">
+
+                <TextBlock Style="{DynamicResource TextBlockStyle}"  Text="{DynamicResource ChangeLanguage}"/>
+                <Button Style="{DynamicResource ButtonStyle}" Content="English" Margin="0, 10, 0,0" Command="{Binding SetLanguageCommand}" CommandParameter="en"/>
+                <Button Style="{DynamicResource ButtonStyle}" Content="Русский" Margin="0, 10, 0,0" Command="{Binding SetLanguageCommand}" CommandParameter="ru"/>
+                <TextBlock Style="{DynamicResource TextBlockStyle}"  Text="{DynamicResource Theme}"/>
+                <ComboBox Name="styleBox" Margin="0,10,0,0" SelectionChanged="ThemeChange" SelectedIndex="0">
+                    <TextBlock Text="{DynamicResource Light}"/>
+                    <TextBlock Text="{DynamicResource Dark}"/>
+                </ComboBox>
+                <TextBlock Style="{DynamicResource TextBlockStyle}"  Text="{DynamicResource Filter}" FontWeight="Bold" Margin="0, 10, 0,0"/>
+                <!-- <TextBlock Text="{DynamicResource Cost}"></TextBlock>-->
+
+                <ComboBox Name="MyComboBox" Margin="0, 10, 0,0" SelectionChanged="OnFilterChanged" SelectedIndex="0" Background="#FFD81212">
+                    <TextBlock Text="{DynamicResource All}"/>
+                    <TextBlock Text="{DynamicResource Basketboll}"/>
+                    <TextBlock Text="{DynamicResource Volleyboll}"/>
+                    <TextBlock Text="{DynamicResource Weightlifting}"/>
+                </ComboBox>
+                <TextBlock Style="{DynamicResource TextBlockStyle}"  Text="{DynamicResource Search}" FontWeight="Bold" Margin="0, 20, 0, 10"/>
+                <TextBox x:Name="searchTextBox" TextChanged="OnFilterChanged"  MinWidth="75" MaxWidth="150" Text="" />
+            </StackPanel>
+
+        </Grid>
+
+
+
+    </Grid>
+</Window>

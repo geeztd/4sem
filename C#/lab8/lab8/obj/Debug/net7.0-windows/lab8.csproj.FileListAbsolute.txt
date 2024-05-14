@@ -1,9 +1,0 @@
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\lab8.csproj.AssemblyReference.cache
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\MainWindow.baml
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\MainWindow.g.cs
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\Pages\AddAuthor.g.cs
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\Pages\AddBook.g.cs
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\Pages\EditBook.g.cs
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\App.g.cs
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\lab8_MarkupCompile.cache
-D:\stady\labs 2\C#\lab8\lab8\obj\Debug\net7.0-windows\lab8_MarkupCompile.lref

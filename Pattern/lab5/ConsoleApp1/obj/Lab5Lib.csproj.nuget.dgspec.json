@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\stady\\labs 2\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj": {}
+    "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj": {}
   },
   "projects": {
-    "D:\\stady\\labs 2\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj": {
+    "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\stady\\labs 2\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj",
+        "projectUniqueName": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj",
         "projectName": "Lab5Lib",
-        "projectPath": "D:\\stady\\labs 2\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj",
+        "projectPath": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Lab5Lib.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\stady\\labs 2\\Pattern\\lab5\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

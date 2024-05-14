@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\decrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\decrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\decsha512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\decsha512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab5\\consoleapp1\\class\\decmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F975291-A112-49D9-9F7D-69F1220B9CCC}|ConsoleApp1\\Lab5Lib.csproj|solutionrelative:consoleapp1\\class\\decmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\Decorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Decorator.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\Decorator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Decorator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:27:13.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\Constant.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Constant.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\Constant.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:25:43.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\FileWriter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\FileWriter.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\FileWriter.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\FileWriter.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:51:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecRSA.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\DecRSA.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\DecRSA.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\DecRSA.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\DecRSA.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:51:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecSHA512.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\DecSHA512.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\DecSHA512.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\DecSHA512.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\DecSHA512.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:51:05.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:51:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\IWriter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\IWriter.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\IWriter.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\IWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:26:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecMD5.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\DecMD5.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\DecMD5.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab5\\ConsoleApp1\\Class\\DecMD5.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\DecMD5.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:51:05.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

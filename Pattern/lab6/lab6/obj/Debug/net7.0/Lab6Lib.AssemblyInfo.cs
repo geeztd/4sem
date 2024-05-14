@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab6Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b349fa7b225ee576c1f0af4fb5952ad30f41d35c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab6Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab6Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

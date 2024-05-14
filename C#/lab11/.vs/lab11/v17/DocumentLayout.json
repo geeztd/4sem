@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\mvvm\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\mvvm\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\mvvm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\mvvm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\mvvm\\consultationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\mvvm\\consultationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|d:\\stady\\labs 2\\4sem\\c#\\lab11\\lab11\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB61BD-4B61-47D7-BAB8-AFE4C671322B}|lab11\\lab11.csproj|solutionrelative:lab11\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "lab11\\MVVM\\ViewModelBase.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\ViewModelBase.cs",
+              "RelativeToolTip": "lab11\\MVVM\\ViewModelBase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:44:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab11\\MainWindow.xaml",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MainWindow.xaml",
+              "RelativeToolTip": "lab11\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T10:09:52.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab11\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab11\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:09:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "lab11\\MVVM\\MainViewModel.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\MainViewModel.cs",
+              "RelativeToolTip": "lab11\\MVVM\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:02:02.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\Model.cs",
+              "RelativeDocumentMoniker": "lab11\\MVVM\\Model.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\Model.cs",
+              "RelativeToolTip": "lab11\\MVVM\\Model.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:05:58.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultationViewModel.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\ConsultationViewModel.cs",
+              "RelativeDocumentMoniker": "lab11\\MVVM\\ConsultationViewModel.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\MVVM\\ConsultationViewModel.cs",
+              "RelativeToolTip": "lab11\\MVVM\\ConsultationViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:05:57.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\App.xaml.cs",
+              "RelativeDocumentMoniker": "lab11\\App.xaml.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\App.xaml.cs",
+              "RelativeToolTip": "lab11\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:32:50.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\DB.cs",
+              "RelativeDocumentMoniker": "lab11\\DB.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\C#\\lab11\\lab11\\DB.cs",
+              "RelativeToolTip": "lab11\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:42:06.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

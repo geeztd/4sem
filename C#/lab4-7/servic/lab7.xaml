@@ -1,0 +1,38 @@
+﻿<Window x:Class="servic.lab7Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:servic.lab7"
+        mc:Ignorable="d"
+        Title="lab7" Height="518" Width="383">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:WindowCommands.Exit" Executed="Exit_Executed"/>
+    </Window.CommandBindings>
+    <ScrollViewer>
+        <StackPanel Name="WrapPanel" Margin="5">
+            <TextBlock>LimitedTextBox</TextBlock>
+            <local:LimitedTextBox x:Name="LimitedTextBo" MaxLengthCastom="5" Margin="5" MinWidth="100"></local:LimitedTextBox>
+            <TextBlock Text="NumericTextBox"/>
+            <local:NumericTextBox Margin="5" MinWidth="100"></local:NumericTextBox>
+            <StackPanel Margin="5">
+                <Button x:Name="BubblingButton"  Margin="5" Click="BubblingButton_Click">Bubbling Event</Button>
+                <Grid MouseDown="OnDirectEvent">
+                    <StackPanel MouseDown="OnDirectEvent">
+                        <TextBlock Text="DEvent"></TextBlock>
+                        <TextBlock x:Name="DirectButton"  Margin="5" MouseDown="OnDirectEvent">Direct Event</TextBlock>
+                        <TextBlock x:Name="TextOut" TextWrapping="Wrap"></TextBlock>
+                    </StackPanel>
+                </Grid>
+                <Grid PreviewMouseDown="OnTunnelingEvent">
+                    <StackPanel PreviewMouseDown="OnTunnelingEvent">
+                        <TextBlock>TEvent</TextBlock>
+                        <TextBlock x:Name="TunnelingButton" Margin="5" PreviewMouseDown="OnTunnelingEvent">Tunneling Event</TextBlock>
+                        <TextBlock x:Name="TextOut2" TextWrapping="Wrap"></TextBlock>
+                    </StackPanel>
+                </Grid>
+                <Button Command="local:WindowCommands.Exit">RoutedUiCommand</Button>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab6\\lab6\\class\\subs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|solutionrelative:lab6\\class\\subs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab6\\lab6\\class\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|solutionrelative:lab6\\class\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab6\\lab6\\class\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|solutionrelative:lab6\\class\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|d:\\stady\\labs 2\\4sem\\pattern\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1382C7C-2D12-44DA-AD1C-B3A7F2EF62AD}|lab6\\Lab6Lib.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subs.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Class\\Subs.cs",
+              "RelativeDocumentMoniker": "lab6\\Class\\Subs.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Class\\Subs.cs",
+              "RelativeToolTip": "lab6\\Class\\Subs.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:47:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Class\\Publisher.cs",
+              "RelativeDocumentMoniker": "lab6\\Class\\Publisher.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Class\\Publisher.cs",
+              "RelativeToolTip": "lab6\\Class\\Publisher.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:47:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Class\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "lab6\\Class\\ISubscriber.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Class\\ISubscriber.cs",
+              "RelativeToolTip": "lab6\\Class\\ISubscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:47:13.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "lab6\\Program.cs",
+              "ToolTip": "D:\\stady\\labs 2\\4sem\\Pattern\\lab6\\lab6\\Program.cs",
+              "RelativeToolTip": "lab6\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:47:13.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

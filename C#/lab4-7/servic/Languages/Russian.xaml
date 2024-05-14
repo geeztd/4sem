@@ -1,0 +1,30 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=System.Runtime">
+    <system:String x:Key="Add">Добавить</system:String>
+    <system:String x:Key="Cost">Цена</system:String>
+    <system:String x:Key="All">Все</system:String>
+    <system:String x:Key="Basketboll">Баскетбол</system:String>
+    <system:String x:Key="Volleyboll">Волейбол</system:String>
+    <system:String x:Key="Weightlifting">Тяжелая атлетика</system:String>
+    <system:String x:Key="Search">Поиск</system:String>
+    <system:String x:Key="Edit">Редактировать</system:String>
+    <system:String x:Key="Delete">Удалить</system:String>
+    <system:String x:Key="Buy">Купить</system:String>
+    <system:String x:Key="Detail">Детальнее</system:String>
+    <system:String x:Key="Img">Выбрать фотографию</system:String>
+    <system:String x:Key="ShortName">Короткое название</system:String>
+    <system:String x:Key="Name">Название</system:String>
+    <system:String x:Key="Description">Описание</system:String>
+    <system:String x:Key="Company">Компания</system:String>
+    <system:String x:Key="Language">Язык</system:String>
+    <system:String x:Key="ChangeLanguage">Сменить Язык</system:String>
+    <system:String x:Key="Filter">Фильтры</system:String>
+    <system:String x:Key="Save">Сохранить</system:String>
+    <system:String x:Key="Theme">Тема</system:String>
+    <system:String x:Key="Light">Светлая</system:String>
+    <system:String x:Key="Dark">Темная</system:String>
+    <system:String x:Key="Undo">Повторить</system:String>
+    <system:String x:Key="Redo">Отменить</system:String>
+
+
+</ResourceDictionary>
