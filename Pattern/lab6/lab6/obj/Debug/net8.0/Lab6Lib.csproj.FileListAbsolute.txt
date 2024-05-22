@@ -1,0 +1,15 @@
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\bin\Debug\net8.0\Lab6Lib.exe
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\bin\Debug\net8.0\Lab6Lib.deps.json
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\bin\Debug\net8.0\Lab6Lib.runtimeconfig.json
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\bin\Debug\net8.0\Lab6Lib.dll
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\bin\Debug\net8.0\Lab6Lib.pdb
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.AssemblyInfoInputs.cache
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.AssemblyInfo.cs
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.sourcelink.json
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.dll
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\refint\Lab6Lib.dll
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.pdb
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\Lab6Lib.genruntimeconfig.cache
+D:\stady\labs 2\4sem\Pattern\lab6\lab6\obj\Debug\net8.0\ref\Lab6Lib.dll

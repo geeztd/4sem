@@ -1,49 +1,41 @@
---drop procedure GET_TEACHERS;
---drop function GET_NUM_TEACHERS;
---drop PROCEDURE GET_TEACHERS;
+set SERVEROUT on;
 
---1. процедура GET_TEACHERS (PCODE TEACHER.PULPIT%TYPE)
---список преподов на кафедре
+--список преподавателей на кафедре
 create or replace procedure GET_TEACHERS (PCODE TEACHER.PULPIT%type) is
 cursor curs is
-select TEACHER_NAME, TEACHER 
-from TEACHER 
+select TEACHER_NAME, TEACHER from TEACHER 
 where PULPIT = PCODE;
 T_NAME TEACHER.TEACHER_NAME%type;
 T_CODE TEACHER.TEACHER%type;
 begin
 open curs;
 LOOP
-DBMS_OUTPUT.PUT_LINE(curs%rowcount || ' '|| T_CODE||' '||T_NAME);
+DBMS_OUTPUT.PUT_LINE(curs%rowcount || ' ' || T_CODE || ' ' || T_NAME);
 FETCH curs into T_NAME, T_CODE;
 EXIT when curs%NOTFOUND;
 end LOOP;
 close curs;
 end;
----------------
+
 begin
     GET_TEACHERS('ИСиТ');
 end;
 
---2. функция GET_NUM_TEACHERS (PCODE TEACHER.PULPIT%TYPE) RETURN NUMBER
---число преподов на кафедре
+--2.число преподавателей на кафедре
 create or replace function GET_NUM_TEACHERS(PCODE TEACHER.PULPIT%type)
 return number is
 TEACH_COUNT number;
 begin
-select COUNT(*) 
-into TEACH_COUNT 
-from TEACHER 
-where PULPIT = PCODE;
+select COUNT(*) into TEACH_COUNT 
+from TEACHER where PULPIT = PCODE;
 return TEACH_COUNT;
 end;
----------------
+
 begin
   DBMS_OUTPUT.PUT_LINE(GET_NUM_TEACHERS('ИСиТ'));
 end;
 
---3. 
---список преподов на факультете
+--3. список преподов на факультете
 CREATE OR REPLACE PROCEDURE PGET_TEACHERS(FCODE Sys.FACULTY.FACULTY%TYPE) IS
 BEGIN
   FOR teacher_rec IN (SELECT * FROM TEACHER WHERE PULPIT IN (SELECT PULPIT FROM PULPIT WHERE FACULTY = FCODE)) LOOP
@@ -53,11 +45,11 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('------------------------');
   END LOOP;
 END;
----------------
+
 BEGIN
   PGET_TEACHERS('ТОВ');
 END;
-----------------
+
 --список дисциплин за кафедрой
 CREATE OR REPLACE PROCEDURE GET_SUBJECTS(PCODE SUBJECT.PULPIT%TYPE) IS
 BEGIN
@@ -68,20 +60,19 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('------------------------');
   END LOOP;
 END;
----------------
+
 BEGIN
   GET_SUBJECTS('ИСиТ');
 END;
 
---4. 
---количество преподов на факультете
+--4. количество преподов на факультете
 CREATE OR REPLACE FUNCTION FGET_NUM_TEACHERS(FCODE FACULTY.FACULTY%TYPE) RETURN NUMBER IS
   teacher_count NUMBER;
 BEGIN
   SELECT COUNT(*) INTO teacher_count FROM TEACHER WHERE PULPIT IN (SELECT PULPIT FROM PULPIT WHERE FACULTY = FCODE);
   RETURN teacher_count;
 END;
-----------------
+
 DECLARE
   faculty_code FACULTY.FACULTY%TYPE := 'ТОВ';
   num_teachers NUMBER;
@@ -96,7 +87,7 @@ BEGIN
   SELECT COUNT(*) INTO subject_count FROM SUBJECT WHERE PULPIT = PCODE;
   RETURN subject_count;
 END;
--------------------
+
 DECLARE
   pulpit_code SUBJECT.PULPIT%TYPE := 'ИСиТ';
   num_subjects NUMBER;
@@ -105,8 +96,7 @@ BEGIN
   DBMS_OUTPUT.PUT_LINE('Number of Subjects: ' || num_subjects);
 END;
 
---5. 
---пакет с процедурами
+--5. пакет с процедурами
 CREATE OR REPLACE PACKAGE TEACHERS IS
   PROCEDURE GET_TEACHERS(FCODE FACULTY.FACULTY%TYPE);
   PROCEDURE GET_SUBJECTS(PCODE SUBJECT.PULPIT%TYPE);
@@ -114,8 +104,6 @@ CREATE OR REPLACE PACKAGE TEACHERS IS
   FUNCTION GET_NUM_SUBJECTS(PCODE SUBJECT.PULPIT%TYPE) RETURN NUMBER;
 END TEACHERS;
 
-
---6.
 CREATE OR REPLACE PACKAGE BODY TEACHERS IS
   PROCEDURE GET_TEACHERS(FCODE FACULTY.FACULTY%TYPE) IS
   BEGIN
